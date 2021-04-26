@@ -11,3 +11,5 @@ and compute many of the major statlines, such as yards per attempt, qb efficienc
 this package is still a work in progress, and will most likely be added into an even more complex package in the future, adding even more in depth statistics such as defensive stats, defensive efficiency, turnover rates, and much more. 
 
 As of 4/24/21 this skill-position stat calulation package is ready to use.
+
+To test some basic stats with this package, you can find statlines to try out on the nfl.com website, found further on https://www.nfl.com/stats/player-stats/ using the Passing, Rushing and Receiving categories.
