@@ -1,0 +1,13 @@
+Package: FootballOffStatCalc
+Type: Package
+Title: Football Offensive Statistics Calculation Package
+Version: 1.0.0
+Author: Brandon Dora
+Date: 2021-4-21
+Maintainer: Brandon Dora <bmd2@usf.edu>
+Description: This package is intended to provide the user with easy and convenient functions, so that way the user can calculate most major offensive stat lines, 
+given user-input data, that are relevant to professional football. In order to use this package, simply type any of the fuctions and input your basic user statistical data,
+and the program will calculate all of the major statlines on the Offensive-side of American Football. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
